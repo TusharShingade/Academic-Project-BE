@@ -1,2 +1,3 @@
-# Academic-Project-BE
-Design And Development of Auto Solar Cleaning with Water Spraying System
+# Academic-Project-BE-MECH
+Design And Development of Auto Solar Cleaning with Water Spraying System.
+Design and Development an automatic solar panel cleaning system to address the challenge of dust accumulation on PV modules, enhancing their efficiency and maximizing energy generation. Developed a cost-effective mechanism using DC motors controlled by a drive unit for horizontal cleaning, with or without a spraying system. Conducted research on the effects of different dust particles on PV module efficiency in various regions. Utilized PV panels, Arduino, and automation techniques. Reduced water usage and increased the overall efficiency of PV modules, contributing to the goal of universal energy access.
